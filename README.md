@@ -25,3 +25,5 @@ I'm a final-year B.Tech student at NIT Rourkela with a deep interest in software
 [![](https://visitcount.itsvg.in/api?id=SayantaniSengupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/SayantaniSengupta/SayantaniSengupta/blob/output/github-snake-dark.svg)
