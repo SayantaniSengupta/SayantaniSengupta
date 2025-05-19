@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final-year B.Tech student at NIT Rourkela with a deep interest in software engineering, data-driven research, and user-centric design.<br>I have conducted research at IIT Guwahati, where I applied tools like MATLAB and COMSOL Multiphysics for simulation and data modeling. I'm also passionate about UI/UX and have collaborated closely with developers to bring designs to life in production environments.
+I'm a Pre-final-year B.Tech student at NIT Rourkela with a deep interest in software engineering, data-driven research, and user-centric design.<br>I have conducted research at IIT Guwahati, where I applied tools like MATLAB and COMSOL Multiphysics for simulation and data modeling. I'm also passionate about UI/UX and have collaborated closely with developers to bring designs to life in production environments.
 
 
 ## 🌐 Socials:
